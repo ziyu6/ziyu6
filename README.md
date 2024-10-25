@@ -1,4 +1,7 @@
 ## Hi there 👋
+🌱 I’m currently studying Computer Science and Technology at Northwestern Polytechnical University.
+💬 Talk with me about speech synthesis, voice conversion, speech large language models, diffusion models, machine learning algorithms, multi-modal models and all the cutting-edge knowledge related to TTS.
+📫 How to reach me: ziyu.lucia@gmail.com or ziyu_zhang@mail.nwpu.edu.cn
 
 <!--
 **ziyu6/ziyu6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
