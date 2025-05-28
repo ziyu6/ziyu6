@@ -5,6 +5,8 @@
 
 📫 How to reach me: ziyu.lucia@gmail.com or ziyu_zhang@mail.nwpu.edu.cn😃
 
+I beg myself not procrastinate
+
 <!--
 **ziyu6/ziyu6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
